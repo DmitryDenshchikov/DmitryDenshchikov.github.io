@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utility Class for Enhancing jOOQ Queries with Spring Pagination"
+title:  "Utility class for enhancing jOOQ queries with Spring Pagination"
 date:   2024-04-19 17:00:00 +0100
 categories: jekyll update
 ---
