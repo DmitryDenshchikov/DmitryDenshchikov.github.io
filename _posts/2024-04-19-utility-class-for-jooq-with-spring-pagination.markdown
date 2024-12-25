@@ -141,3 +141,7 @@ CREATE TABLE "user" (
    created_on timestamp NOT NULL
 );
 ```
+
+You can also find the full project in my repository.
+It contains several different jOOQ code snippets, including the one we discussed.<br>
+https://github.com/DmitryDenshchikov/jooq-pageable-utils
