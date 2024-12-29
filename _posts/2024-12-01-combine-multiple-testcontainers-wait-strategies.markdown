@@ -83,6 +83,6 @@ public class TaskServiceTest implements IntegrationTest {
 ```
 You can also find the full project in my repository. 
 It contains a service class that should be tested, Flyway DB migrations, the configuration and the tests.
-- Java version: https://github.com/DmitryDenshchikov/task-creator/tree/main/app-java
-- Kotlin version: https://github.com/DmitryDenshchikov/task-creator/tree/main/app-kotlin
+- Java version: [https://github.com/DmitryDenshchikov/task-creator/tree/main/app-java](https://github.com/DmitryDenshchikov/task-creator/tree/main/app-java)
+- Kotlin version: [https://github.com/DmitryDenshchikov/task-creator/tree/main/app-kotlin](https://github.com/DmitryDenshchikov/task-creator/tree/main/app-kotlin)
 
