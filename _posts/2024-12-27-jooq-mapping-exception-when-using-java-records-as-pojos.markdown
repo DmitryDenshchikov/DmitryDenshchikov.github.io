@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"org.jooq.exception.MappingException: No DefaultRecordMapper strategy applies..." when using Java Records as POJOs'
+title: "'org.jooq.exception.MappingException: No DefaultRecordMapper strategy applies...' when using Java Records as POJOs"
 date: 2024-12-27 14:00:00 +0100
 categories: jekyll update
 ---
